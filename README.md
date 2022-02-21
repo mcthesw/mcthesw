@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcthesw
 - 👀 I’m interested in Games, Video codings
-- 🌱 I’m currently learning Python3
+- 🌱 I’m currently learning Python3, Rust, Typescript
 - 💞️ I’m looking to collaborate on idk XD
 
 <!---
