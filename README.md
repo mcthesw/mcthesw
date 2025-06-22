@@ -3,5 +3,5 @@
 
 - 👋 Hi, I’m @mcthesw
 - 👀 I’m interested in Games, Desktop applications, Internet security
-- 🌱 I’m currently using Rust, C#, Python and Vue
+- 🌱 I’m currently using Rust, Python and Vue, learning C#, Elixir.
 - 💞️ I’m looking to collaborate on [game-save-manager](https://github.com/mcthesw/game-save-manager)
