@@ -29,7 +29,7 @@ jobs:
         with:
           card: top-langs
           options: >-
-            username=${{ github.repository_owner }}&layout=compact&langs_count=6&card_width=467&exclude_repo=mcthesw.github.io&title_color=4C71F1&text_color=8A919F&border_color=8884&bg_color=0000
+            username=${{ github.repository_owner }}&layout=compact&langs_count=9&card_width=467&exclude_repo=mcthesw.github.io&title_color=4C71F1&text_color=8A919F&border_color=8884&bg_color=0000
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
