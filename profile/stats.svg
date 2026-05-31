@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sworld's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 1116, Total Commits  (last year) : 648, Total PRs: 182, Total Issues: 152</desc>
+        <desc id="descId">Total Stars Earned: 1116, Total Commits  (last year) : 652, Total PRs: 182, Total Issues: 154</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 19.84288438081118;
+        stroke-dashoffset: 19.74956116148843;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >648</text>
+      >652</text>
     </g>
   </g><g transform="translate(0, 48)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >152</text>
+      >154</text>
     </g>
   </g>
     </svg>
