@@ -2,7 +2,7 @@
 ![Cat approved](https://img.shields.io/badge/Cat-Approved-orange)
 ![Debugging level](https://img.shields.io/badge/Debugging%20Level-Professional%20Cat%20Herder-blue)
 
-- Building [game-save-manager](https://github.com/mcthesw/game-save-manager) and [easy-nats](https://github.com/mcthesw/easy-nats). Always open to collaborators.
+- Building [game-save-manager](https://github.com/mcthesw/game-save-manager), [easy-nats](https://github.com/mcthesw/easy-nats) and [basement-bridge](https://github.com/mcthesw/Basement-Bridge). Always open to collaborators.
 - Crafting high-performance network applications, proxy systems, and protocols in Rust.
 - Exploring game development on the side.
 
