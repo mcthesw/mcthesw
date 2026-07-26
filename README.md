@@ -1,8 +1,9 @@
-I build tools I want to use.
+### About
 
-I'm a Rust developer mostly working around networking and backend infrastructure. I like software that is fast, practical, and understandable.
+I'm a Rust developer building tools I want to use, mostly around networking and backend infrastructure. I like software that is fast, practical, and understandable.
 
-Outside code, I play games across genres, with a soft spot for denpa games.
+Outside code, I play games across genres, with a soft spot for denpa games. I'm also here to meet people—if you're into Rust, networking, developer tools, or strange games, feel free to say hi.
+
 
 ### Projects
 
