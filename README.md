@@ -1,18 +1,28 @@
-## What I'm up to
-![Cat approved](https://img.shields.io/badge/Cat-Approved-orange)
-![Debugging level](https://img.shields.io/badge/Debugging%20Level-Professional%20Cat%20Herder-blue)
+I build tools I want to use.
 
-- Building [game-save-manager](https://github.com/mcthesw/game-save-manager), [easy-nats](https://github.com/mcthesw/easy-nats) and [tractor-beam](https://github.com/mcthesw/TractorBeam). Always open to collaborators.
-- Crafting high-performance network applications, proxy systems, and protocols in Rust.
-- Exploring game development on the side.
+I'm a Rust developer mostly working around networking and backend infrastructure. I like software that is fast, practical, and understandable.
 
-## Let's collaborate
-If you are running short-handed on an interesting project and think it might align with what I do, feel free to reach out. I'd be happy to help out.
+Outside code, I play games across genres, with a soft spot for denpa games.
 
-## Let's chat
-I enjoy communicating with humans (you're welcome too if you're a cat). Drop a line anytime.
+### Projects
 
----
+* [**Easy NATS**](https://github.com/mcthesw/easy-nats) — A NATS desktop client built around global search and flexible split panes.
+* [**Game Save Manager**](https://github.com/mcthesw/game-save-manager) — My first open-source project, helping players organize, back up, and restore their game saves.
+* [**Tractor Beam**](https://github.com/mcthesw/TractorBeam) — A networking client for smoother *The Binding of Isaac: Repentance+* multiplayer over either relays or virtual LANs, with built-in connection diagnostics.
 
-[![Github Stats](./profile/stats.svg)](https://github.com/readme-tools/github-readme-stats)
-[![Top Langs](./profile/top-langs.svg)](https://github.com/readme-tools/github-readme-stats)
+I'm also here to meet people. If you're into Rust, networking, developer tools, or strange games, feel free to say hi.
+
+<p align="center">
+  <img
+    src="./profile/github.svg"
+    width="49%"
+    alt="GitHub activity, repository statistics, and languages"
+  />
+  <a href="https://steamcommunity.com/id/mcthesw/">
+    <img
+      src="./profile/steam.svg"
+      width="49%"
+      alt="Recently played games on Steam"
+    />
+  </a>
+</p>
