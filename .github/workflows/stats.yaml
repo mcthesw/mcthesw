@@ -1,50 +1,57 @@
-name: Update README cards
+name: Update profile metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: false
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v6
-
-      - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
         with:
-          card: stats
-          options: >-
-            username=${{ github.repository_owner }}&show_icons=true&hide=contribs&card_width=467&line_height=24&title_color=4C71F1&text_color=8A919F&icon_color=4C71F1&border_color=8884&bg_color=0000
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: profile/github.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          base: header, activity, repositories
+          base_indepth: yes
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 6
+          plugin_languages_details: percentage
+          plugin_languages_threshold: 0.5%
+          plugin_languages_other: yes
+          plugin_languages_skipped: mcthesw/mcthesw.github.io
+          config_timezone: Asia/Shanghai
+          output_condition: data-changed
+          plugins_errors_fatal: yes
+          verify: yes
 
-      - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate Steam activity
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
         with:
-          card: top-langs
-          options: >-
-            username=${{ github.repository_owner }}&layout=compact&langs_count=6&card_width=467&exclude_repo=mcthesw.github.io&title_color=4C71F1&text_color=8A919F&border_color=8884&bg_color=0000
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate pin card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=readme-tools&repo=github-readme-stats
-          path: profile/pin-readme-tools-github-readme-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit cards
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
-          git push
+          filename: profile/steam.svg
+          token: NOT_NEEDED
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam_user: "76561198288679129"
+          plugin_steam_sections: recently-played
+          plugin_steam_recent_games_limit: 2
+          plugin_steam_achievements_limit: 0
+          config_timezone: Asia/Shanghai
+          output_condition: data-changed
+          plugins_errors_fatal: yes
+          verify: yes
