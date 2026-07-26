@@ -11,8 +11,6 @@ Outside code, I play games across genres, with a soft spot for denpa games. I'm 
 * [**Game Save Manager**](https://github.com/mcthesw/game-save-manager) — My first open-source project, helping players organize, back up, and restore their game saves.
 * [**Tractor Beam**](https://github.com/mcthesw/TractorBeam) — A networking client for smoother *The Binding of Isaac: Repentance+* multiplayer over either relays or virtual LANs, with built-in connection diagnostics.
 
-I'm also here to meet people. If you're into Rust, networking, developer tools, or strange games, feel free to say hi.
-
 <p align="center">
   <img
     src="./profile/github.svg"
