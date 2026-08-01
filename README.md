@@ -7,7 +7,7 @@ Outside code, I play games across genres, with a soft spot for denpa games. I'm 
 
 ### Projects
 
-* [**Easy NATS**](https://github.com/mcthesw/easy-nats) — A NATS desktop client built around global search and flexible split panes.
+* [**Easy NATS**](https://github.com/mcthesw/easy-nats) — A NATS desktop client Built for real NATS work: search, schemas, and dockable windows.
 * [**Game Save Manager**](https://github.com/mcthesw/game-save-manager) — My first open-source project, helping players organize, back up, and restore their game saves.
 * [**Tractor Beam**](https://github.com/mcthesw/TractorBeam) — A networking client for smoother *The Binding of Isaac: Repentance+* multiplayer over either relays or virtual LANs, with built-in connection diagnostics.
 
