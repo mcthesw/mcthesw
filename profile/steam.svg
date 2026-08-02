@@ -22,46 +22,6 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHQAAAgICAwEAAAAAAAAAAAAABwgEBgAFAgMJAf/EAC8QAAEDAwMEAQMDBAMAAAAAAAECAwQABREGByESMUFREwhhcRUiMhQkQoEXUqH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIEA//EAB8RAAMAAgMAAwEAAAAAAAAAAAABAgMREiExBEFRIv/aAAwDAQACEQMRAD8AWe8XN64yPldAGRjtUDqOOeaxeArz00RNktvf+QdTrjPPBuFESl2SBkKUgnGAfBpDlcnoqFgsN31FJXHstvfmvoTlSGhyBRXZ+nrUi2Wlrmx2lOJCihSDlJPg02dj09a7JFbj2yEzHS2gI+RKAFqA9nzWy+FOD9uRn3S2apxSvRPD9O+oerpNwjZ9dBoY6p0lfNLO9N6tz8VCllDbixwvHkV6HhoAcjqPnHqo1wtUG4M/HPiMSkenUBRH4z2o2FYpfnR5shR4xwak26c7ClIeawSg57UWPqF2yZ0PcmblbXB+mT3CltpWSpC+559UHR/LzjzVGapcvRyV4J7+qd3ZWyW7bzbFE28yorfygyHpgTgBtXISfJxSRL757famZ1lrqDE0ttxeEAz7RDklMmIg8PFKMFKs8H8Gpfp2wr+ar8Dba9zdE3aaxCt2oociW+roaaTkFR/3VwwCOOUjx7rz/wB19YQNWa2Ve9P25VnY+JtCWkBKFJUn/IdPGaanWG8Fk29sOn4stp243N2I0p2M0vDjaSgELUT7oHOTa7CuQOng4HmqrftwdIafuSrder9Fhz0pCi2vPAPbOKqe2e+dg1zfVWlUR21SlJ/txIWFfOr/AKjHnzQHmbk2iHoXVOk7lZFTb2/LkpauTgQooBXxyR1cYo0Osml0MbrGPZdzturkxY58OalaFJYl9PUltY7/AHFIhNjmJOfjKIUphxTZI/yIOM0afpjvf6O7qh6ZJLduYhBbgUT0J57490G7u8l+8T3mVBSHH3FpPsFRIoXosvcTRFJPUSefvRj2Ku1rurMzRuq3Gf0mWn+3BGFhwnnpV4NBxfs9z4rG3FtLSttakLTylSTgg/mq6fpwmnO9fY61h2I0Tb7vEnxY8tZjKDgS891oX+R5qdqnbzUj+4E3Uump9jjty4jcQs3GJ8/QlHkeqA2hN/73ZOhm+o/UIbSAllDQCVAjySe9MDA3w0RKhMPP3ZmO44kFbS1cpPqi2nW5H8aLePjb20ayNtxq+bqvTt1v9z06uNZ5JkJRb4PwrcyMYJHepetNltH6jv713nxn23HuFIYc6Bn3geanOb1aEbSoovkZYSMhKVHJoF69+om43BxTemGDCHUpLi3gFhaPGPVENcu/Cs8UsTU9N+HDep+xaE06jR+jnGx861Gd8n73Sg9gVes0BPWP9V2zpj86W7JlOqdfdUVLWo5710o/9Hb70dbbRHKnMqvo4ufy4r5jsCeKl3GC/CkfFJQUqxmogSfRIoJGX2Ct+n9O7W3jXVytouMiOFIcZX0qCkhWAEg9jz3q5Qdg9GX6I1dvhmRf68CT8Jfx0Bf7sfjmlBbnTW4iorcqQiMr+TKXCEH8jtTL3jdqyX7ZaVGamrt15aipjNRg4Q4SkAdQI8GpaNM2vwtjn03aNQlRAmLUBkITIOTVe3CgaY1nspMv0G0C2v2RbkZlKelKipv9uVY7g1ptmt1bbpbbqSq83FyXc2lrWmKtwl1wHsATQAud3lypU4sSJDcSU+t4xw4ej9xzgjsTRoKtLXSNV549Vif5CvpB7gcV3w4zsmQhlhBUtVUZj//Z" alt="" />
-                            <div class="about">
-                                <div class="name">The Binding of Isaac: Rebirth</div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                        </svg>
-                                        Action
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
-                                        </svg>
-                                        660 hours played
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
-                                        </svg>
-                                        Last played on 30 Jul 2026
-                                    </div>
-                                </div>
-                                <div class="achievements">
-                                    <div class="infos">
-                                        <div>
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
-                                            </svg>
-                                            641 / 641 achievements unlocked
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="media largeable-width-half">
                             <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAABgIDBAUHCAH/xAAvEAABAwMDAwIFAwUAAAAAAAABAgMEAAURBhIhIjFBExQHI1FhcRUWMjNCUoGh/8QAGQEBAAMBAQAAAAAAAAAAAAAABAIDBQAB/8QAHhEAAgMAAwADAAAAAAAAAAAAAAIBAxEEITEiI0H/2gAMAwEAAhEDEQA/AJnxo1KLfaRbUYUqT0u/ZNc8OL9Q4V2SemrnUt8lXySX5RJKgEnPgCqJKgpJB/t7Va/RdSvY8ztKD4Hmp78B9ooQ8gpdWAUpPcg9qLND6LcmINxvA9KEBlBPGTR9p3Qc286kRd7y16MZgBMdBGAtI7f8rOtsyRseGSX7TVxsKWPdNk+okOAgdgea6M+Glz/WNJxZDnC2/ljH2of1dFtd7s9zREaecdjoKd27O0g1I+BzK2dIISk/LD6wSrmp8ZtKrV6NGSKdSKSBzToFNj0H+nC+5SWOnJWfFWVkhqnXeLGaTuWtQyKgcblKRySMCtB0NbRASie4MyM5Tmou2wMrU1216UblSrZJDy0Nxseq0VdBwPpWhhYSE4/po/gB4rKdNa0Yip9K/q9vlZ2E8bq0yLcosthtyCQtl0YJz2+9Zty7JdJQaqhRYGlbyqMA36jeVKHfJNPaKhJt1hhsMgbV9ZP5FTr9CRe7c/BV8tLidufrU2JGRFisx2jlDaAjd+BSuNXkBrX0eK+TSkuUnaKUlIpXkhY7OQdJ2J24uiRIT6bTZzgjvWhloD0mkqSGT0nA5FXF0t/6eQw7H9FY5KRxkUPPL2FbyQTj+KfvR3XGwejBOhph1tLciMhacY3qSDgfarCzrbgT21ILnpg9ACunP4oRmXiQv28cRlocbwsI8rzVi3d/fmH7aMtMor2KZzyMeaHC5aWM5tTaA4yhzbyRk4pW0A8EDNC0LV7apDUOLFccdUkIKc9lAc03bNZSH4RfetT20PKazkeDWnHRmz6F4aUo7T1Nf5inEBJypKCs9jjwKAr/AKreXcbSy1HcjJS7ueaUeVJxRJp3UkW9yZEZhtbLzQ6kqPcVx4ZHNmuSHCHFKWojuTk0sRSbQ6kN5UexxTdkilz5jnOKtZjrqG9kdvI/FCvt+zB6ICtuizZl3U/LSUBKAhP+qJLfaGkXyGllzY+pfemIcuKh4tSX0h/wmrKK8lVzYkqQQGiCCKjM/LSbIGZ0ay2yBb3tpUSqQSeoA+QfFNftGXFt5iwJaQwFFxAXkqKj35owZcLjSVpUkFaBzjg044NytxOCB3HYU+PDOn0zV3T8h9A91BkKlA4U6FcAeKudOQZ8W/qekQSguNpbK0gAbR2NGBUpIKEdaFDn6mvQOnaQshPJGefxXHh//9k=" alt="" />
                             <div class="about">
                                 <div class="name">ghostpia Season One</div>
@@ -86,7 +46,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 19 Jul 2026
+                                        Last played on 2 Aug 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -95,7 +55,87 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            35 / 36 achievements unlocked
+                                            36 / 36 achievements unlocked
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="media largeable-width-half">
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHQAAAgICAwEAAAAAAAAAAAAABwgEBgAFAgMJAf/EAC8QAAEDAwMEAQMDBAMAAAAAAAECAwQABREGByESMUFREwhhcRUiMhQkQoEXUqH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIEA//EAB8RAAMAAgMAAwEAAAAAAAAAAAABAgMREiExBEFRIv/aAAwDAQACEQMRAD8AWe8XN64yPldAGRjtUDqOOeaxeArz00RNktvf+QdTrjPPBuFESl2SBkKUgnGAfBpDlcnoqFgsN31FJXHstvfmvoTlSGhyBRXZ+nrUi2Wlrmx2lOJCihSDlJPg02dj09a7JFbj2yEzHS2gI+RKAFqA9nzWy+FOD9uRn3S2apxSvRPD9O+oerpNwjZ9dBoY6p0lfNLO9N6tz8VCllDbixwvHkV6HhoAcjqPnHqo1wtUG4M/HPiMSkenUBRH4z2o2FYpfnR5shR4xwak26c7ClIeawSg57UWPqF2yZ0PcmblbXB+mT3CltpWSpC+559UHR/LzjzVGapcvRyV4J7+qd3ZWyW7bzbFE28yorfygyHpgTgBtXISfJxSRL757famZ1lrqDE0ttxeEAz7RDklMmIg8PFKMFKs8H8Gpfp2wr+ar8Dba9zdE3aaxCt2oociW+roaaTkFR/3VwwCOOUjx7rz/wB19YQNWa2Ve9P25VnY+JtCWkBKFJUn/IdPGaanWG8Fk29sOn4stp243N2I0p2M0vDjaSgELUT7oHOTa7CuQOng4HmqrftwdIafuSrder9Fhz0pCi2vPAPbOKqe2e+dg1zfVWlUR21SlJ/txIWFfOr/AKjHnzQHmbk2iHoXVOk7lZFTb2/LkpauTgQooBXxyR1cYo0Osml0MbrGPZdzturkxY58OalaFJYl9PUltY7/AHFIhNjmJOfjKIUphxTZI/yIOM0afpjvf6O7qh6ZJLduYhBbgUT0J57490G7u8l+8T3mVBSHH3FpPsFRIoXosvcTRFJPUSefvRj2Ku1rurMzRuq3Gf0mWn+3BGFhwnnpV4NBxfs9z4rG3FtLSttakLTylSTgg/mq6fpwmnO9fY61h2I0Tb7vEnxY8tZjKDgS891oX+R5qdqnbzUj+4E3Uump9jjty4jcQs3GJ8/QlHkeqA2hN/73ZOhm+o/UIbSAllDQCVAjySe9MDA3w0RKhMPP3ZmO44kFbS1cpPqi2nW5H8aLePjb20ayNtxq+bqvTt1v9z06uNZ5JkJRb4PwrcyMYJHepetNltH6jv713nxn23HuFIYc6Bn3geanOb1aEbSoovkZYSMhKVHJoF69+om43BxTemGDCHUpLi3gFhaPGPVENcu/Cs8UsTU9N+HDep+xaE06jR+jnGx861Gd8n73Sg9gVes0BPWP9V2zpj86W7JlOqdfdUVLWo5710o/9Hb70dbbRHKnMqvo4ufy4r5jsCeKl3GC/CkfFJQUqxmogSfRIoJGX2Ct+n9O7W3jXVytouMiOFIcZX0qCkhWAEg9jz3q5Qdg9GX6I1dvhmRf68CT8Jfx0Bf7sfjmlBbnTW4iorcqQiMr+TKXCEH8jtTL3jdqyX7ZaVGamrt15aipjNRg4Q4SkAdQI8GpaNM2vwtjn03aNQlRAmLUBkITIOTVe3CgaY1nspMv0G0C2v2RbkZlKelKipv9uVY7g1ptmt1bbpbbqSq83FyXc2lrWmKtwl1wHsATQAud3lypU4sSJDcSU+t4xw4ej9xzgjsTRoKtLXSNV549Vif5CvpB7gcV3w4zsmQhlhBUtVUZj//Z" alt="" />
+                            <div class="about">
+                                <div class="name">The Binding of Isaac: Rebirth</div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        </svg>
+                                        Action
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
+                                        </svg>
+                                        660 hours played
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
+                                        </svg>
+                                        Last played on 1 Aug 2026
+                                    </div>
+                                </div>
+                                <div class="achievements">
+                                    <div class="infos">
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
+                                            </svg>
+                                            641 / 641 achievements unlocked
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="media largeable-width-half">
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABwgCBAYBBf/EADMQAAEDAwMCBAIJBQAAAAAAAAECAwQABREGEiEHMRNBUWEUkhUiIyQyUlRxgRYXJZGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMAAQQF/8QAIhEAAgICAgICAwAAAAAAAAAAAQIAAwQREiEFMRMiYXGB/9oADAMBAAIRAxEAPwBWE5SeeD6U1/S/TjbOk4iYSi224N6lLOckjmgB040oNUXZxp50JjR0hxxOcKWPQGmmts1ix6FlSW8ONW5vcWU/iWkcAA+tcfy1tgRVr9maK8at+7vUmbEvJCHkKHmAOTUvoJSwAZCMp7IxyKwg6zxFfWatMhBxlBKhyfSvf0ZrxWrbs3Ft1mklpRxKkBQ2tp9a5RxPID7x5TxrfXc9z6BcBBLqQo8Z8hURYlZ8QOpSvONx7V7V1eat85mGyS/IdVjwx3A8jVKVclxQht6Oozlq2iMCN2PI0C0ZzHbLGjEwADwmc1XpwS7DMiySXIrqCFLRxg0ok1rZPfaT+FpZQD7A4p572QmzAyFJCnBhLPmg+9Kv1X0Yzp6Q3cILwEeWs5aUcqSruT+1dfxZsTkrzNfj9n4/UHrMl+MomM+60T3LaynP+qam2FH9qbyp9K1EwEEnPftSokYIpr7WA50nvIW6lP3BHf8AitWb1xMwWMEGmgTaTDcaS2SptxWAFE8Uf9FW229NrQiS7J+JlzGwp0t5ASk8jIoU9MIkFWtLAw6lD7qn/rBXKSMehoq9YNfw7X4tttjMaRKI2LUEAhAp+UzW16QzOKyp5JJ601ZMuEcMWmARuGfiRjJB8ge9YebeoTchDdzvaFSkpG4JUQtPtmhVKmT3XXXPjX0KXzhKyAP2FUFsJ8QqdCy6RwVHJB9T7VlprsUdvDWu0bJeMnaZzNw6dtyIrq3VB9xO9StxOPelTvMyQ9cZKZEh51KXl4C1kgc0yPTvCejccoHJkugmlouYxdJfn9qr/tTBJLuDH977MqnnBzTMC8MWzSEJiXGckQJzKWXQ2cEAD1paO5CsjOe1Hy9NtHS9oCErCSkdzxnFPyBsrBf8yu2/ollwOx7LeEOp7OIk4I9wa0NitfTm6treuT8qE6e5kPlRNYPwRv8APbjyqIjtnccAp96r4iVhg9QgX3T3TKHELkSW7OV+Vp4g1mD/AEIU5XYrrkcbviO9eMYyNoIACfYV3wEbk4J20BpIhc+oR9LXWC9YpNqtEN+JbYoLyS8rdlR780tN1GblMKeftl8/zR70MhpLFwQQvYGyRz3NAe7nNzlk8fbKGB6ZosZeNrfyJVtmU8gnnk+WKPt++rpixpwTwNxHYDFAQgE9skdyO1MNbLxbn9Nx2ErRMjuNJbVs/Eggc80WUdFTJZMpu9O1c3VogxZcD7u/89d8Gy/p3/npa36WUT1M5kYxuFcyPzCtGWbL+kkfPUSzZf0kj56s3bkFg1LWhSki6JHLaWchXqaAl0P+Tm7eEl1Q5/emFh3a3QbU+0nbCjgEqW7yVfzS9XBTap8pxs5SXFKSfI80WOd2sf1LrYbn/9k=" alt="" />
+                            <div class="about">
+                                <div class="name">Slay the Spire 2</div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        </svg>
+                                        Indie, Strategy, Early Access
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
+                                        </svg>
+                                        71 hours played
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
+                                        </svg>
+                                        Last played on 1 Aug 2026
+                                    </div>
+                                </div>
+                                <div class="achievements">
+                                    <div class="infos">
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
+                                            </svg>
+                                            0 / 0 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
@@ -167,46 +207,6 @@
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
                                         Last played on 11 Jul 2026
-                                    </div>
-                                </div>
-                                <div class="achievements">
-                                    <div class="infos">
-                                        <div>
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
-                                            </svg>
-                                            0 / 0 achievements unlocked
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABwgCBAYBBf/EADMQAAEDAwMCBAIJBQAAAAAAAAECAwQABREGEiEHMRNBUWEUkhUiIyQyUlRxgRYXJZGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMAAQQF/8QAIhEAAgICAgICAwAAAAAAAAAAAQIAAwQREiEFMRMiYXGB/9oADAMBAAIRAxEAPwBWE5SeeD6U1/S/TjbOk4iYSi224N6lLOckjmgB040oNUXZxp50JjR0hxxOcKWPQGmmts1ix6FlSW8ONW5vcWU/iWkcAA+tcfy1tgRVr9maK8at+7vUmbEvJCHkKHmAOTUvoJSwAZCMp7IxyKwg6zxFfWatMhBxlBKhyfSvf0ZrxWrbs3Ft1mklpRxKkBQ2tp9a5RxPID7x5TxrfXc9z6BcBBLqQo8Z8hURYlZ8QOpSvONx7V7V1eat85mGyS/IdVjwx3A8jVKVclxQht6Oozlq2iMCN2PI0C0ZzHbLGjEwADwmc1XpwS7DMiySXIrqCFLRxg0ok1rZPfaT+FpZQD7A4p572QmzAyFJCnBhLPmg+9Kv1X0Yzp6Q3cILwEeWs5aUcqSruT+1dfxZsTkrzNfj9n4/UHrMl+MomM+60T3LaynP+qam2FH9qbyp9K1EwEEnPftSokYIpr7WA50nvIW6lP3BHf8AitWb1xMwWMEGmgTaTDcaS2SptxWAFE8Uf9FW229NrQiS7J+JlzGwp0t5ASk8jIoU9MIkFWtLAw6lD7qn/rBXKSMehoq9YNfw7X4tttjMaRKI2LUEAhAp+UzW16QzOKyp5JJ601ZMuEcMWmARuGfiRjJB8ge9YebeoTchDdzvaFSkpG4JUQtPtmhVKmT3XXXPjX0KXzhKyAP2FUFsJ8QqdCy6RwVHJB9T7VlprsUdvDWu0bJeMnaZzNw6dtyIrq3VB9xO9StxOPelTvMyQ9cZKZEh51KXl4C1kgc0yPTvCejccoHJkugmlouYxdJfn9qr/tTBJLuDH977MqnnBzTMC8MWzSEJiXGckQJzKWXQ2cEAD1paO5CsjOe1Hy9NtHS9oCErCSkdzxnFPyBsrBf8yu2/ollwOx7LeEOp7OIk4I9wa0NitfTm6treuT8qE6e5kPlRNYPwRv8APbjyqIjtnccAp96r4iVhg9QgX3T3TKHELkSW7OV+Vp4g1mD/AEIU5XYrrkcbviO9eMYyNoIACfYV3wEbk4J20BpIhc+oR9LXWC9YpNqtEN+JbYoLyS8rdlR780tN1GblMKeftl8/zR70MhpLFwQQvYGyRz3NAe7nNzlk8fbKGB6ZosZeNrfyJVtmU8gnnk+WKPt++rpixpwTwNxHYDFAQgE9skdyO1MNbLxbn9Nx2ErRMjuNJbVs/Eggc80WUdFTJZMpu9O1c3VogxZcD7u/89d8Gy/p3/npa36WUT1M5kYxuFcyPzCtGWbL+kkfPUSzZf0kj56s3bkFg1LWhSki6JHLaWchXqaAl0P+Tm7eEl1Q5/emFh3a3QbU+0nbCjgEqW7yVfzS9XBTap8pxs5SXFKSfI80WOd2sf1LrYbn/9k=" alt="" />
-                            <div class="about">
-                                <div class="name">Slay the Spire 2</div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                        </svg>
-                                        Indie, Strategy, Early Access
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
-                                        </svg>
-                                        71 hours played
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
-                                        </svg>
-                                        Last played on 4 Jul 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
