@@ -12,16 +12,6 @@ Outside code, I play games across genres, with a soft spot for denpa games. I'm 
 * [**Tractor Beam**](https://github.com/mcthesw/TractorBeam) — A networking client for smoother *The Binding of Isaac: Repentance+* multiplayer over either relays or virtual LANs, with built-in connection diagnostics.
 
 <p align="center">
-  <img
-    src="./profile/github.svg"
-    width="49%"
-    alt="GitHub activity, repository statistics, and languages"
-  />
-  <a href="https://steamcommunity.com/id/mcthesw/">
-    <img
-      src="./profile/steam.svg"
-      width="49%"
-      alt="Recently played games on Steam"
-    />
-  </a>
+  <img src="./profile/github.svg" width="49%" align="top" alt="GitHub activity, repository statistics, and languages" />
+  <a href="https://blog.sworld.club/games/"><img src="./profile/games.png" width="49%" align="top" alt="My favorite games and recent Steam activity" /></a>
 </p>

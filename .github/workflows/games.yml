@@ -1,0 +1,48 @@
+name: Update game card
+on:
+  schedule:
+    - cron: '23 4 * * *'
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - '.github/workflows/games.yml'
+      - 'profile/steam-stats.yml'
+      - 'profile/assets/**'
+      - 'README.md'
+permissions:
+  contents: read
+concurrency:
+  group: game-card-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: false
+jobs:
+  generate:
+    if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+      - name: Generate game card
+        uses: mcthesw/steam-stats@05fc6b06841ebfa120bda082973384f8194c21fc
+        with:
+          steam-api-key: ${{ secrets.STEAM_TOKEN }}
+          config: profile/steam-stats.yml
+          output: profile/games.png
+      - name: Upload generated cards for review
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: game-cards
+          path: |
+            profile/games.png
+      - name: Commit updated cards
+        if: github.event_name != 'pull_request'
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- profile/games.png
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'chore: update game cards'
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
